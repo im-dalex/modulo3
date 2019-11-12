@@ -47,7 +47,7 @@
                 ?>
             </div>
         </div>
-        
+        <?php include("identificador.php"); ?>
         <?php include("cards.php"); ?>
     </div>
 
